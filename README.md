@@ -10,7 +10,7 @@ With the first notebook, one can learn how PCA is performed - conceptually, math
 ![Notebook 1_2-2](https://github.com/user-attachments/assets/d0bef5f3-fa62-46a8-8666-bb47996c1eff)
 
 The second notebook builds on that and transfers the knowlegde to a more complex example: a face in 3D. \
-Together, the two Jupyter Notebooks offer an opportunity to deeply understand the basics of PCA in different settings. 
+Together, the two Jupyter notebooks offer an opportunity to deeply understand the basics of PCA in different settings. 
 
 Both Jupyter notebooks are provided publically via Google colab:
 
